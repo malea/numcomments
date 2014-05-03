@@ -2,7 +2,6 @@ from re import subn
 from sys import argv
 import math
 
-
 def allLines(program):
     fstr = open(filename)                  
     lines = 0
